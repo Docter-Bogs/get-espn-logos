@@ -1,0 +1,30 @@
+col - Avalanche
+chi - Blackhawks
+cbj - Blue Jackets
+stl - Blues
+bos - Bruins
+mon - Canadiens
+van - Canucks
+was - Capitals
+ari - Coyotes
+njd - Devils
+ana - Ducks
+cgy - Flames
+phi - Flyers
+car - Hurricanes
+nyi - Islanders
+wpg - Jets
+la - Kings
+tam - Lightning
+tor - Maple Leafs
+edm - Oilers
+fla - Panthers
+pit - Penguins
+nsh - Predators
+nyr - Rangers
+det - Red Wings
+buf - Sabres
+ott - Senators
+sj - Sharks
+dal - Stars
+min - Wild

@@ -1,0 +1,32 @@
+phi - 76ers
+mil - Bucks
+chi - Bulls
+cle - Cavaliers
+bos - Celtics
+lac - Clippers
+mem - Grizzlies
+atl - Hawks
+mia - Heat
+cha - Hornets
+uth - Jazz
+sac - Kings
+nyk - Knicks
+lal - Lakers
+orl - Magic
+dal - Mavericks
+bkn - Nets
+den - Nuggets
+ind - Pacers
+nor - Pelicans
+det - Pistons
+tor - Raptors
+hou - Rockets
+sas - Spurs
+pho - Suns
+okc - Thunder
+min - Timberwolves
+por - Trail Blazers
+gsw - Warriors
+was - Wizards
+east - Eastern Conference
+west - Western Conference

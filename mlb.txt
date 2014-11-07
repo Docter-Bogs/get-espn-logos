@@ -1,0 +1,32 @@
+laa - Angels
+hou - Astros
+oak - Athletics
+tor - Blue Jays
+atl - Braves
+mil - Brewers
+stl - Cardinals
+chc - Cubs
+ari - Diamondbacks
+lad - Dodgers
+sfo - Giants
+cle - Indians
+sea - Mariners
+mia - Marlins
+nym - Mets
+was - Nationals
+bal - Orioles
+sdg - Padres
+phi - Phillies
+pit - Pirates
+tex - Rangers
+tam - Rays
+bos - Red Sox
+cin - Reds
+col - Rockies
+kan - Royals
+det - Tigers
+min - Twins
+chw - White Sox
+nyy - Yankees
+al - American League
+nl - National League
